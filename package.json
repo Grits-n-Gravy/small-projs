@@ -1,0 +1,17 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "dependencies": {
+    "install": "^0.13.0",
+    "npm": "^8.7.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.11",
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+    "test": "jest --no-cache ./*"
+  },
+  "author": "",
+  "license": "ISC"
+}
